@@ -1,0 +1,15 @@
+.ContainerFooter{
+    display: flex;
+    justify-content: space-between;
+}
+.f-left img{
+    width: 120px;
+}
+.ftext{
+    color: black;
+    font-style: bold;
+    font-weight: 600;
+}
+.f-left , .f-right{
+    gap: 0.7rem;
+}
